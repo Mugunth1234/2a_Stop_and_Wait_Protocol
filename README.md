@@ -73,7 +73,8 @@ finally:
     print("Server socket closed")
 ```
 ## OUTPUT
-<img width="1919" height="1105" alt="image" src="https://github.com/user-attachments/assets/3a2903bb-8860-442d-9742-1905751605cc" />
+<img width="1915" height="1133" alt="image" src="https://github.com/user-attachments/assets/cbf75376-c93b-4742-a5c9-94657d0e1d31" />
+
 
 
 ## RESULT
